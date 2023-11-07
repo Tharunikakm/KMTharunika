@@ -6,9 +6,9 @@ const Footer= () =>{
            
            <hr></hr>
            
-
-           <h2>123@gmail.com</h2>
-
+            <center>
+           <h2 style={{color:"darkblue", fontSize:"20px" }}>Welcome!!!</h2>
+            </center>
            
            <hr></hr>
 
