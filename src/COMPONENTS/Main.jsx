@@ -24,10 +24,10 @@ const Main= () =>{
             <input type="text" id="lname" name="lname" placeholder="Last name"></input><br></br>
 
             <label for="mail">Email ID: &emsp; </label><br></br>
-            <input type="email" id="mail" placeholder="Email ID"></input><br></br>
+            <input type="email" id="mail" placeholder="Email ID"  ></input><br></br>
 
             <label for="pw">Password:</label><br></br>
-            <input type="password" id="pw" placeholder = "Enter your password"></input>
+            <input type="password" id="pw" placeholder = "Enter your password" required></input>
 
             <br></br>
 
