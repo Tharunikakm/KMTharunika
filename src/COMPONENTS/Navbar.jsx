@@ -4,7 +4,9 @@ const Navbar= () =>{
     return(
         <div>
            <hr></hr>
-           <h1 style={{backgroundColor:"lightblue", fontSize:"50px" }}>Your Name</h1>
+           <center>
+           <h1 style={{backgroundColor:"lightblue", fontSize:"20px" }}>Tharunika</h1>
+           </center>
            <hr></hr>
         </div>
     );

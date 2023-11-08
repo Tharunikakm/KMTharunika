@@ -16,6 +16,7 @@ const Main= () =>{
             <br></br> */}
            {/* <button type="submit"><center>Login</center></button>  */}
          {/* <input></input> */}
+         
             
             <label for="fname">First Name:</label><br></br>
             <input type="text" id="fname" name="fname" placeholder="First name"></input><br></br>
@@ -31,7 +32,9 @@ const Main= () =>{
 
             <br></br>
 
-            <input type="submit" value="LOGIN"></input>
+            <button ></button>
+
+            {/* <input type="submit" value="LOGIN"></input> */}
 
             {/* <h1 style={{color: "red"}}>Welcome!!!</h1> */}
          
